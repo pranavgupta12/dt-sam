@@ -34,6 +34,22 @@ Simple python program to open an image and use segment-anything (SAM) model weig
 
 
 
+**Additional Examples**
+
+- Sky selection
+  <img width="1010" height="808" alt="image" src="https://github.com/user-attachments/assets/383f08a7-32e7-4710-a7fb-c11855fd82cd" />
+
+- Person Selection
+  <img width="1010" height="808" alt="image" src="https://github.com/user-attachments/assets/fc9fc1b0-c5c2-43e0-a7db-a53133d67cd6" />
+
+- Car and Boat selection in dark scene
+   <img width="1010" height="808" alt="image" src="https://github.com/user-attachments/assets/1fa71ef3-d3b0-42d1-a206-d02516982ff8" />
+   <img width="1010" height="808" alt="image" src="https://github.com/user-attachments/assets/ddb93215-1236-4906-bb8f-7dcfc53d56cd" />
+
+
+
+
+
 
 
 
